@@ -120,7 +120,7 @@
             var CPUsOptions = {'title':'Number of Cores',
                            'width':500,
                            'height':300};
-            var OSOptions = {'title':'OS',
+            var OSOptions = {'title':'Process OS',
                            'width':400,
                            'height':300};
                            
